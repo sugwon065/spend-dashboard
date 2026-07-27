@@ -19,11 +19,11 @@
 
 ## 데이터 공개 범위
 
-개인 거래 내역과 원본 Excel 파일은 이 저장소에 포함하지 않습니다.
+대시보드가 사용하는 정리된 JSON 데이터와 화면 이미지는 저장소에 포함되어 있습니다. 원본 Excel 파일은 공개하지 않습니다.
 
-- `app/data/spend-data.json`과 모든 `.xlsx` 파일은 Git에서 제외됩니다.
-- 저장소에는 화면 실행과 데이터 형식 확인을 위한 가상의 예시 데이터만 들어 있습니다.
-- 실제 상호명, 거래일시, 결제수단, 금액은 GitHub 커밋 기록에도 포함되지 않습니다.
+- 모든 `.xlsx` 파일은 Git에서 제외됩니다.
+- 화면은 `app/data/spend-data.json`을 사용합니다.
+- 원본 Excel 파일은 GitHub 커밋 기록에 포함되지 않습니다.
 
 ## 기술 구성
 
@@ -48,9 +48,9 @@ npm run dev
 npm run build
 ```
 
-## 예시 데이터 구조
+## 데이터 구조
 
-예시 데이터는 `app/data/spend-data.example.json`에 있습니다.
+대시보드 데이터는 `app/data/spend-data.json`에 있습니다.
 
 ```json
 {

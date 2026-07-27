@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import spendData from "./data/spend-data.example.json";
+import spendData from "./data/spend-data.json";
 
 const REFERENCE_WIDTH = 2005;
 const REFERENCE_HEIGHT = 1200;
@@ -1043,7 +1043,7 @@ export default function Home() {
         </section>
 
         <footer>
-          <span>Source · 가상 예시 데이터 / 순수지출 형식</span>
+          <span>Source · spend_major_category.xlsx / 순수지출</span>
           <span>정적 데이터 기준 · 2026-07-26</span>
         </footer>
       </section>
@@ -1085,26 +1085,29 @@ export default function Home() {
               </article>
               <article>
                 <strong>월 필터</strong>
-                <div className="guide-card-placeholder" aria-hidden="true">
-                  <span>6월</span>
-                  <b>월을 선택하세요</b>
-                </div>
+                <img
+                  className="guide-card-image"
+                  src="/guide/month-filter.png"
+                  alt="월 필터 선택 안내"
+                />
                 <p>월 선택 박스를 누르면 1월부터 6월까지 원하는 지출 내역으로 화면을 전환할 수 있습니다.</p>
               </article>
               <article>
                 <strong>대분류 필터</strong>
-                <div className="guide-card-placeholder" aria-hidden="true">
-                  <span>37%</span>
-                  <b>도넛 또는 범례를 선택하세요</b>
-                </div>
+                <img
+                  className="guide-card-image"
+                  src="/guide/category-filter.png"
+                  alt="대분류 필터 선택 안내"
+                />
                 <p>도넛 그래프나 범례를 클릭하면 선택한 대분류 기준으로 차트와 지출 리스트가 함께 바뀝니다.</p>
               </article>
               <article>
                 <strong>일 필터</strong>
-                <div className="guide-card-placeholder" aria-hidden="true">
-                  <span>1일</span>
-                  <b>일별 막대를 선택하세요</b>
-                </div>
+                <img
+                  className="guide-card-image"
+                  src="/guide/day-filter.png"
+                  alt="일 필터 선택 안내"
+                />
                 <p>일별 지출 금액 막대를 클릭하면 해당 날짜의 지출 내역만 리스트에서 확인할 수 있습니다.</p>
               </article>
             </div>

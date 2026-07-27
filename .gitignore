@@ -42,6 +42,5 @@ next-env.d.ts
 /outputs/
 /work/
 
-# private spending source data
-/app/data/spend-data.json
+# private source workbook
 *.xlsx

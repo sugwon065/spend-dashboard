@@ -1,0 +1,6033 @@
+{
+  "meta": {
+    "sourceFile": "spend_major_category.xlsx",
+    "sheet": "순수지출",
+    "generatedAt": "2026-07-26",
+    "latestMonth": "2026-07",
+    "months": [
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ],
+    "categories": [
+      "간편결제·선불",
+      "교육/여가",
+      "교통",
+      "생활·기타",
+      "식비",
+      "여행·숙박",
+      "카페"
+    ],
+    "total": 7042476,
+    "count": 667
+  },
+  "transactions": [
+    {
+      "dateTime": "2026-01-01T14:45",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0090",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 6600
+    },
+    {
+      "dateTime": "2026-01-01T15:04",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0089",
+      "description": "씨유 도룡KCC점",
+      "category": "생활·기타",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-01-02T12:17",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0088",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-02T18:27",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0087",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-02T19:03",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0086",
+      "description": "씨유 도룡KCC점",
+      "category": "생활·기타",
+      "amount": 1400
+    },
+    {
+      "dateTime": "2026-01-02T19:04",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0085",
+      "description": "도룡365약국",
+      "category": "생활·기타",
+      "amount": 3500
+    },
+    {
+      "dateTime": "2026-01-02T19:11",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0084",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 9560
+    },
+    {
+      "dateTime": "2026-01-03T12:17",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0083",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 9400
+    },
+    {
+      "dateTime": "2026-01-05T12:12",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0082",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-05T18:13",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0081",
+      "description": "(주)대전신세계",
+      "category": "생활·기타",
+      "amount": 12000
+    },
+    {
+      "dateTime": "2026-01-06T12:11",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0080",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-06T18:06",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0079",
+      "description": "신한체크교통",
+      "category": "교통",
+      "amount": 8650
+    },
+    {
+      "dateTime": "2026-01-06T18:33",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0078",
+      "description": "시래정 도룡점",
+      "category": "생활·기타",
+      "amount": 11000
+    },
+    {
+      "dateTime": "2026-01-06T18:42",
+      "month": "2026-01",
+      "source": "국민",
+      "id": "KB-0103",
+      "description": "KB카드출금",
+      "category": "생활·기타",
+      "amount": 22720
+    },
+    {
+      "dateTime": "2026-01-07T12:25",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0077",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-07T18:09",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0076",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-08T08:31",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0075",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-08T12:18",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0074",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-08T18:12",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0073",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-09T08:30",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0072",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-09T12:04",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0071",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-09T19:52",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0070",
+      "description": "참이맛감자탕",
+      "category": "식비",
+      "amount": 15000
+    },
+    {
+      "dateTime": "2026-01-09T20:01",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0069",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 4750
+    },
+    {
+      "dateTime": "2026-01-10T13:37",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0068",
+      "description": "카페",
+      "category": "카페",
+      "amount": 1600
+    },
+    {
+      "dateTime": "2026-01-10T13:45",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0067",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 1100
+    },
+    {
+      "dateTime": "2026-01-11T13:36",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0066",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 4200
+    },
+    {
+      "dateTime": "2026-01-11T21:48",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0065",
+      "description": "도야지",
+      "category": "생활·기타",
+      "amount": 61000
+    },
+    {
+      "dateTime": "2026-01-11T22:14",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0064",
+      "description": "CU 둔산소망점",
+      "category": "생활·기타",
+      "amount": 11100
+    },
+    {
+      "dateTime": "2026-01-12T08:27",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0063",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-12T11:53",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0062",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-12T22:01",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0061",
+      "description": "지에스25(GS25)",
+      "category": "생활·기타",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-13T08:36",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0060",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-13T12:00",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0059",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-13T18:09",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0058",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-14T08:35",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0057",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-14T11:50",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0056",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-14T18:07",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0055",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-15T08:32",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0054",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-15T12:07",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0053",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-16T08:37",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0051",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-16T11:45",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0050",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-16T18:03",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0049",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-16T19:55",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0048",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 27000
+    },
+    {
+      "dateTime": "2026-01-16T19:59",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0047",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 5700
+    },
+    {
+      "dateTime": "2026-01-16T22:41",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0046",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-17T21:10",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0045",
+      "description": "술집",
+      "category": "식비",
+      "amount": 65000
+    },
+    {
+      "dateTime": "2026-01-17T22:20",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0042",
+      "description": "카카오T일반택",
+      "category": "교통",
+      "amount": 27000
+    },
+    {
+      "dateTime": "2026-01-18T17:06",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0041",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 1200
+    },
+    {
+      "dateTime": "2026-01-19T08:36",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0040",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-19T09:23",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0039",
+      "description": "MEDIUM MONTHLY",
+      "category": "교육/여가",
+      "amount": 7549
+    },
+    {
+      "dateTime": "2026-01-19T12:15",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0038",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-19T18:09",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0037",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-20T08:36",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0036",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-20T11:52",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0035",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-20T18:07",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0034",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-21T08:43",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0033",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-21T12:25",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0032",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-21T16:25",
+      "month": "2026-01",
+      "source": "국민",
+      "id": "KB-0100",
+      "description": "과학기술원 기숙사",
+      "category": "여행·숙박",
+      "amount": 210000
+    },
+    {
+      "dateTime": "2026-01-21T18:25",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0031",
+      "description": "(주)대전신세계",
+      "category": "생활·기타",
+      "amount": 12000
+    },
+    {
+      "dateTime": "2026-01-22T12:24",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0030",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-22T19:43",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0029",
+      "description": "참이맛감자탕",
+      "category": "식비",
+      "amount": 16000
+    },
+    {
+      "dateTime": "2026-01-22T19:50",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0028",
+      "description": "GS25 도룡코아",
+      "category": "생활·기타",
+      "amount": 7660
+    },
+    {
+      "dateTime": "2026-01-23T09:02",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0027",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-23T12:08",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0026",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-23T18:06",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0025",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-24T14:41",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0024",
+      "description": "코레일유통주식",
+      "category": "교통",
+      "amount": 1000
+    },
+    {
+      "dateTime": "2026-01-24T18:14",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0023",
+      "description": "스티커사진",
+      "category": "생활·기타",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-01-24T20:00",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0022",
+      "description": "벌툰 수원역점",
+      "category": "생활·기타",
+      "amount": 23200
+    },
+    {
+      "dateTime": "2026-01-24T23:38",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0021",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 5150
+    },
+    {
+      "dateTime": "2026-01-25T12:55",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0020",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 1250
+    },
+    {
+      "dateTime": "2026-01-26T08:27",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0019",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-26T11:13",
+      "month": "2026-01",
+      "source": "국민",
+      "id": "KB-0098",
+      "description": "토스페이",
+      "category": "간편결제·선불",
+      "amount": 97900
+    },
+    {
+      "dateTime": "2026-01-26T11:21",
+      "month": "2026-01",
+      "source": "국민",
+      "id": "KB-0097",
+      "description": "토스페이 숙박",
+      "category": "여행·숙박",
+      "amount": 79517
+    },
+    {
+      "dateTime": "2026-01-26T12:17",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0018",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-26T12:18",
+      "month": "2026-01",
+      "source": "국민",
+      "id": "KB-0096",
+      "description": "Agoda Comp",
+      "category": "여행·숙박",
+      "amount": -97900
+    },
+    {
+      "dateTime": "2026-01-27T08:26",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0017",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-27T11:57",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0016",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-27T18:22",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0015",
+      "description": "(주)대전신세계",
+      "category": "생활·기타",
+      "amount": 12000
+    },
+    {
+      "dateTime": "2026-01-28T08:34",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0014",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-28T11:52",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0013",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-29T08:31",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0012",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-01-29T12:21",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0011",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-29T18:04",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0010",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-30T09:08",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0009",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-01-30T12:12",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0008",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-01-30T19:53",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0007",
+      "description": "GS25 둔산리치",
+      "category": "생활·기타",
+      "amount": 6900
+    },
+    {
+      "dateTime": "2026-01-30T19:56",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0006",
+      "description": "씨유(CU)대전시",
+      "category": "생활·기타",
+      "amount": 1300
+    },
+    {
+      "dateTime": "2026-01-30T21:42",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0005",
+      "description": "(주)모로미둔산",
+      "category": "식비",
+      "amount": 47000
+    },
+    {
+      "dateTime": "2026-01-31T11:50",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0004",
+      "description": "베이커리·디저트",
+      "category": "카페",
+      "amount": 18000
+    },
+    {
+      "dateTime": "2026-01-31T13:48",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0003",
+      "description": "정감미",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-01-31T17:50",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0002",
+      "description": "오씨칼국수",
+      "category": "식비",
+      "amount": 23000
+    },
+    {
+      "dateTime": "2026-01-31T20:03",
+      "month": "2026-01",
+      "source": "신한",
+      "id": "SH-0001",
+      "description": "코레일네트웍스",
+      "category": "교통",
+      "amount": 2100
+    },
+    {
+      "dateTime": "2026-01-31T20:09",
+      "month": "2026-01",
+      "source": "카카오페이",
+      "id": "KP-0045",
+      "description": "맥도날드",
+      "category": "식비",
+      "amount": 4300
+    },
+    {
+      "dateTime": "2026-02-01T14:52",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0182",
+      "description": "빽다방 대전스",
+      "category": "생활·기타",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-02-01T18:21",
+      "month": "2026-02",
+      "source": "카카오페이",
+      "id": "KP-0044",
+      "description": "맥도날드",
+      "category": "식비",
+      "amount": 4100
+    },
+    {
+      "dateTime": "2026-02-02T09:04",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0181",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-02-02T12:11",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0180",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-02T18:03",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0179",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-02-03T09:02",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0178",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-02-03T12:14",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0177",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-03T18:02",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0176",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-02-04T09:04",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0175",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-02-04T12:08",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0174",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-04T18:06",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0173",
+      "description": "신한체크교통",
+      "category": "교통",
+      "amount": 20100
+    },
+    {
+      "dateTime": "2026-02-04T18:08",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0172",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-02-05T08:59",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0171",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-02-05T11:59",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0169",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-05T18:14",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0168",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 15080
+    },
+    {
+      "dateTime": "2026-02-06T08:58",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0167",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-02-06T12:06",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0166",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-06T18:05",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0165",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-02-07T13:26",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0164",
+      "description": "트레이더스 홀",
+      "category": "생활·기타",
+      "amount": 39980
+    },
+    {
+      "dateTime": "2026-02-07T16:30",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0163",
+      "description": "에이케이플라자",
+      "category": "생활·기타",
+      "amount": 9000
+    },
+    {
+      "dateTime": "2026-02-07T17:26",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0162",
+      "description": "악쓰는하마코인",
+      "category": "생활·기타",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-02-07T19:04",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0161",
+      "description": "카라차오",
+      "category": "생활·기타",
+      "amount": 36000
+    },
+    {
+      "dateTime": "2026-02-07T19:51",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0160",
+      "description": "주식회사 교보",
+      "category": "생활·기타",
+      "amount": 18100
+    },
+    {
+      "dateTime": "2026-02-08T16:56",
+      "month": "2026-02",
+      "source": "국민",
+      "id": "KB-0090",
+      "description": "토스 이효정",
+      "category": "생활·기타",
+      "amount": 17000
+    },
+    {
+      "dateTime": "2026-02-08T18:08",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0159",
+      "description": "주식회사 한국",
+      "category": "생활·기타",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-02-08T18:10",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0158",
+      "description": "메가엠지씨커피",
+      "category": "카페",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-08T22:14",
+      "month": "2026-02",
+      "source": "카카오페이",
+      "id": "KP-0043",
+      "description": "맥도날드",
+      "category": "식비",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-02-09T12:19",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0157",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-10T09:09",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0156",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-02-10T11:56",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0155",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-10T18:08",
+      "month": "2026-02",
+      "source": "카카오페이",
+      "id": "KP-0040",
+      "description": "택시 운임",
+      "category": "교통",
+      "amount": 6300
+    },
+    {
+      "dateTime": "2026-02-10T22:20",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0151",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-02-11T08:57",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0150",
+      "description": "카페",
+      "category": "카페",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-02-11T12:07",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0149",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-11T17:54",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0148",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-02-12T08:59",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0147",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-02-12T09:39",
+      "month": "2026-02",
+      "source": "카카오페이",
+      "id": "KP-0039",
+      "description": "디에이치 원목 우드 볼펜 무료각인",
+      "category": "생활·기타",
+      "amount": 43600
+    },
+    {
+      "dateTime": "2026-02-12T11:58",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0146",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-12T13:47",
+      "month": "2026-02",
+      "source": "카카오페이",
+      "id": "KP-0036",
+      "description": "인쇄・출력물 디자인",
+      "category": "교육/여가",
+      "amount": 15900
+    },
+    {
+      "dateTime": "2026-02-12T23:03",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0145",
+      "description": "이마트24 대전",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-02-13T11:57",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0144",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-13T17:20",
+      "month": "2026-02",
+      "source": "국민",
+      "id": "KB-0083",
+      "description": "토스 장형준",
+      "category": "생활·기타",
+      "amount": 12900
+    },
+    {
+      "dateTime": "2026-02-13T21:07",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0142",
+      "description": "카루요시",
+      "category": "생활·기타",
+      "amount": 21000
+    },
+    {
+      "dateTime": "2026-02-13T23:42",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0141",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 4200
+    },
+    {
+      "dateTime": "2026-02-14T12:56",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0140",
+      "description": "던킨 군포당동",
+      "category": "카페",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-14T12:58",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0139",
+      "description": "컴포즈커피군포",
+      "category": "카페",
+      "amount": 3300
+    },
+    {
+      "dateTime": "2026-02-14T17:39",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0138",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-02-15T13:45",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0137",
+      "description": "컴포즈커피군포",
+      "category": "카페",
+      "amount": 5100
+    },
+    {
+      "dateTime": "2026-02-15T20:57",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0136",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 12200
+    },
+    {
+      "dateTime": "2026-02-16T13:35",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0135",
+      "description": "맥도날드 군포",
+      "category": "식비",
+      "amount": 5700
+    },
+    {
+      "dateTime": "2026-02-16T14:15",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0134",
+      "description": "카페두드림",
+      "category": "카페",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-02-16T17:35",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0133",
+      "description": "다이소 군포당",
+      "category": "생활·기타",
+      "amount": 1000
+    },
+    {
+      "dateTime": "2026-02-16T17:39",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0132",
+      "description": "가락",
+      "category": "식비",
+      "amount": 7000
+    },
+    {
+      "dateTime": "2026-02-16T18:22",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0131",
+      "description": "투썸플레이스",
+      "category": "카페",
+      "amount": 3850
+    },
+    {
+      "dateTime": "2026-02-17T17:35",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0129",
+      "description": "GS25 도룡코아",
+      "category": "생활·기타",
+      "amount": 7630
+    },
+    {
+      "dateTime": "2026-02-17T21:04",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0128",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 12000
+    },
+    {
+      "dateTime": "2026-02-19T09:02",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0127",
+      "description": "카페",
+      "category": "카페",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-02-19T10:24",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0126",
+      "description": "MEDIUM MONTHLY",
+      "category": "교육/여가",
+      "amount": 7428
+    },
+    {
+      "dateTime": "2026-02-19T12:12",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0125",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-19T18:01",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0124",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-02-19T18:46",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0123",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 39100
+    },
+    {
+      "dateTime": "2026-02-19T22:00",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0122",
+      "description": "지에스GS25 군",
+      "category": "생활·기타",
+      "amount": 1500
+    },
+    {
+      "dateTime": "2026-02-20T11:08",
+      "month": "2026-02",
+      "source": "카카오페이",
+      "id": "KP-0035",
+      "description": "용인 88 호텔",
+      "category": "여행·숙박",
+      "amount": 27000
+    },
+    {
+      "dateTime": "2026-02-20T11:46",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0121",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 11000
+    },
+    {
+      "dateTime": "2026-02-20T12:47",
+      "month": "2026-02",
+      "source": "국민",
+      "id": "KB-0079",
+      "description": "과학기술원 기숙사",
+      "category": "여행·숙박",
+      "amount": 196000
+    },
+    {
+      "dateTime": "2026-02-20T12:51",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0120",
+      "description": "(주)에코테크",
+      "category": "생활·기타",
+      "amount": 60
+    },
+    {
+      "dateTime": "2026-02-21T18:03",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0119",
+      "description": "GS25 S매헌역점",
+      "category": "생활·기타",
+      "amount": 1200
+    },
+    {
+      "dateTime": "2026-02-22T20:16",
+      "month": "2026-02",
+      "source": "카카오페이",
+      "id": "KP-0034",
+      "description": "맥도날드",
+      "category": "식비",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-02-22T21:49",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0118",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 5250
+    },
+    {
+      "dateTime": "2026-02-23T09:47",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0117",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-02-23T11:46",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0116",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-23T12:32",
+      "month": "2026-02",
+      "source": "카카오페이",
+      "id": "KP-0033",
+      "description": "Adobe 구독",
+      "category": "교육/여가",
+      "amount": 46200
+    },
+    {
+      "dateTime": "2026-02-23T18:28",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0115",
+      "description": "(주)대전신세계",
+      "category": "생활·기타",
+      "amount": 9900
+    },
+    {
+      "dateTime": "2026-02-23T20:17",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0114",
+      "description": "빽다방 대전스",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-02-24T09:03",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0113",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-02-24T12:08",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0112",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-24T15:36",
+      "month": "2026-02",
+      "source": "카카오페이",
+      "id": "KP-0032",
+      "description": "com.nhn.android.webtoon",
+      "category": "교육/여가",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-02-24T18:02",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0109",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-02-24T19:07",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0108",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 4300
+    },
+    {
+      "dateTime": "2026-02-24T21:30",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0107",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 6300
+    },
+    {
+      "dateTime": "2026-02-25T10:29",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0106",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-02-25T12:08",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0105",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-25T18:08",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0104",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-02-25T18:55",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0103",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 4800
+    },
+    {
+      "dateTime": "2026-02-25T20:35",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0102",
+      "description": "이마트24 유성",
+      "category": "생활·기타",
+      "amount": 13330
+    },
+    {
+      "dateTime": "2026-02-26T12:13",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0101",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-26T18:17",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0100",
+      "description": "(주)대전신세계",
+      "category": "생활·기타",
+      "amount": 17000
+    },
+    {
+      "dateTime": "2026-02-27T11:55",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0099",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-02-27T12:28",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0098",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-02-27T20:46",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0097",
+      "description": "유가네닭갈비",
+      "category": "생활·기타",
+      "amount": 18900
+    },
+    {
+      "dateTime": "2026-02-28T00:36",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0096",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 5400
+    },
+    {
+      "dateTime": "2026-02-28T13:47",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0095",
+      "description": "던킨 군포당동",
+      "category": "카페",
+      "amount": 1700
+    },
+    {
+      "dateTime": "2026-02-28T13:49",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0094",
+      "description": "컴포즈커피군포",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-02-28T20:06",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0093",
+      "description": "트레이더스 홀",
+      "category": "생활·기타",
+      "amount": 11980
+    },
+    {
+      "dateTime": "2026-02-28T20:17",
+      "month": "2026-02",
+      "source": "신한",
+      "id": "SH-0092",
+      "description": "이마트 트레이",
+      "category": "생활·기타",
+      "amount": 5960
+    },
+    {
+      "dateTime": "2026-03-03T23:09",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0282",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 6400
+    },
+    {
+      "dateTime": "2026-03-04T12:01",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0281",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-04T14:18",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0280",
+      "description": "(주)케이엠파크",
+      "category": "생활·기타",
+      "amount": 20000
+    },
+    {
+      "dateTime": "2026-03-04T18:06",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0279",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-04T18:30",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0278",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 1600
+    },
+    {
+      "dateTime": "2026-03-04T22:10",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0277",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-03-05T11:06",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0276",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-05T17:59",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0274",
+      "description": "혜원테크 주식",
+      "category": "생활·기타",
+      "amount": 6800
+    },
+    {
+      "dateTime": "2026-03-05T18:09",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0273",
+      "description": "신한체크교통",
+      "category": "교통",
+      "amount": 22400
+    },
+    {
+      "dateTime": "2026-03-06T11:44",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0272",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-03-06T12:08",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0271",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-03-06T15:30",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0270",
+      "description": "그라찌에 (카이",
+      "category": "생활·기타",
+      "amount": 6300
+    },
+    {
+      "dateTime": "2026-03-06T19:10",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0269",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-03-06T23:43",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0268",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-03-07T17:11",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0267",
+      "description": "퀸즈가드",
+      "category": "생활·기타",
+      "amount": 18000
+    },
+    {
+      "dateTime": "2026-03-07T17:26",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0266",
+      "description": "루스카(Ruska)",
+      "category": "생활·기타",
+      "amount": 12100
+    },
+    {
+      "dateTime": "2026-03-07T20:10",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0265",
+      "description": "송암온반",
+      "category": "생활·기타",
+      "amount": 43500
+    },
+    {
+      "dateTime": "2026-03-07T23:26",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0264",
+      "description": "(주)코리아세븐",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-03-08T15:06",
+      "month": "2026-03",
+      "source": "국민",
+      "id": "KB-0070",
+      "description": "토스 김성희",
+      "category": "생활·기타",
+      "amount": 17000
+    },
+    {
+      "dateTime": "2026-03-08T22:56",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0263",
+      "description": "(주)코리아세븐",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-03-09T10:13",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0262",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-03-09T10:51",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0261",
+      "description": "카페",
+      "category": "카페",
+      "amount": 6500
+    },
+    {
+      "dateTime": "2026-03-09T17:02",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0260",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-09T17:41",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0259",
+      "description": "이마트24 경기",
+      "category": "생활·기타",
+      "amount": 1200
+    },
+    {
+      "dateTime": "2026-03-10T11:30",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0258",
+      "description": "학식당",
+      "category": "식비",
+      "amount": 6500
+    },
+    {
+      "dateTime": "2026-03-10T11:53",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0257",
+      "description": "학식당",
+      "category": "식비",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-03-10T17:32",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0256",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-10T18:02",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0255",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 500
+    },
+    {
+      "dateTime": "2026-03-10T21:21",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0254",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-03-11T12:47",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0253",
+      "description": "주식회사 비앤",
+      "category": "생활·기타",
+      "amount": 2600
+    },
+    {
+      "dateTime": "2026-03-11T17:02",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0252",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-11T17:53",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0251",
+      "description": "학식당",
+      "category": "식비",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-03-11T22:30",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0250",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-03-12T12:16",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0249",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-12T12:48",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0248",
+      "description": "주식회사 씨앤",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-03-12T14:21",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0247",
+      "description": "토스페이",
+      "category": "간편결제·선불",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-12T17:37",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0246",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-12T21:18",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0245",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-03-12T21:39",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0244",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-03-13T12:02",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0243",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-03-13T12:21",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0242",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-03-13T19:02",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0241",
+      "description": "(주)대전신세계",
+      "category": "생활·기타",
+      "amount": 12000
+    },
+    {
+      "dateTime": "2026-03-13T19:42",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0240",
+      "description": "(주)대전신세계",
+      "category": "생활·기타",
+      "amount": 28000
+    },
+    {
+      "dateTime": "2026-03-14T13:27",
+      "month": "2026-03",
+      "source": "카카오페이",
+      "id": "KP-0031",
+      "description": "CANVA",
+      "category": "교육/여가",
+      "amount": 9900
+    },
+    {
+      "dateTime": "2026-03-14T18:06",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0239",
+      "description": "진미통닭",
+      "category": "생활·기타",
+      "amount": 35000
+    },
+    {
+      "dateTime": "2026-03-15T22:37",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0237",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 6150
+    },
+    {
+      "dateTime": "2026-03-16T11:32",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0236",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-16T17:42",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0235",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-17T11:40",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0234",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-17T18:07",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0233",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-17T18:54",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0232",
+      "description": "컴포즈커피 광",
+      "category": "카페",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-03-18T18:13",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0231",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-03-18T18:46",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0230",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-19T10:12",
+      "month": "2026-03",
+      "source": "국민",
+      "id": "KB-0065",
+      "description": "데이트 비용",
+      "category": "생활·기타",
+      "amount": 130000
+    },
+    {
+      "dateTime": "2026-03-19T12:01",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0229",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-19T12:44",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0228",
+      "description": "KIOSK_ 나이스",
+      "category": "생활·기타",
+      "amount": 500
+    },
+    {
+      "dateTime": "2026-03-19T12:46",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0227",
+      "description": "KIOSK_ 나이스",
+      "category": "생활·기타",
+      "amount": 500
+    },
+    {
+      "dateTime": "2026-03-19T17:35",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0226",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-19T18:08",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0225",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-03-19T21:29",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0224",
+      "description": "이마트 트레이",
+      "category": "생활·기타",
+      "amount": 8760
+    },
+    {
+      "dateTime": "2026-03-19T21:38",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0222",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-03-20T12:00",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0221",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-20T12:37",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0220",
+      "description": "주식회사 씨앤",
+      "category": "생활·기타",
+      "amount": 2100
+    },
+    {
+      "dateTime": "2026-03-20T17:59",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0219",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-20T18:26",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0218",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 1600
+    },
+    {
+      "dateTime": "2026-03-21T13:43",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0216",
+      "description": "주식회사 한국",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-03-21T13:48",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0215",
+      "description": "던킨 군포당동",
+      "category": "카페",
+      "amount": 4850
+    },
+    {
+      "dateTime": "2026-03-21T13:49",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0214",
+      "description": "컴포즈커피군포",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-03-22T13:52",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0213",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 800
+    },
+    {
+      "dateTime": "2026-03-22T19:23",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0212",
+      "description": "Claude 구독",
+      "category": "교육/여가",
+      "amount": 33900
+    },
+    {
+      "dateTime": "2026-03-22T21:01",
+      "month": "2026-03",
+      "source": "카카오페이",
+      "id": "KP-0030",
+      "description": "Adobe 구독",
+      "category": "교육/여가",
+      "amount": 46200
+    },
+    {
+      "dateTime": "2026-03-23T11:24",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0211",
+      "description": "학식당",
+      "category": "식비",
+      "amount": 6500
+    },
+    {
+      "dateTime": "2026-03-23T11:57",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0210",
+      "description": "(주)지에이치컴",
+      "category": "생활·기타",
+      "amount": 4700
+    },
+    {
+      "dateTime": "2026-03-23T22:24",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0209",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 1280
+    },
+    {
+      "dateTime": "2026-03-24T16:57",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0208",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-25T12:09",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0207",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-03-25T13:04",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0206",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-03-25T18:16",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0205",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-03-25T18:53",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0204",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 6800
+    },
+    {
+      "dateTime": "2026-03-25T22:17",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0203",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-03-26T12:01",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0202",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-26T17:13",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0201",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-26T20:27",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0200",
+      "description": "트레이더스365",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-03-26T20:46",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0199",
+      "description": "이마트 트레이",
+      "category": "생활·기타",
+      "amount": 5980
+    },
+    {
+      "dateTime": "2026-03-27T10:52",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0197",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-27T17:20",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0196",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-27T20:58",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0195",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-03-28T14:58",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0194",
+      "description": "(주)코리아세븐",
+      "category": "생활·기타",
+      "amount": 3200
+    },
+    {
+      "dateTime": "2026-03-28T23:30",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0193",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-03-29T17:03",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0192",
+      "description": "투썸플레이스",
+      "category": "카페",
+      "amount": 3500
+    },
+    {
+      "dateTime": "2026-03-29T20:55",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0191",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 3500
+    },
+    {
+      "dateTime": "2026-03-29T21:03",
+      "month": "2026-03",
+      "source": "카카오페이",
+      "id": "KP-0029",
+      "description": "맥도날드",
+      "category": "식비",
+      "amount": 5200
+    },
+    {
+      "dateTime": "2026-03-29T22:58",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0190",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2750
+    },
+    {
+      "dateTime": "2026-03-30T11:41",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0189",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-30T12:27",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0188",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 2300
+    },
+    {
+      "dateTime": "2026-03-30T16:59",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0187",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-31T11:03",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0186",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-03-31T11:31",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0185",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 2300
+    },
+    {
+      "dateTime": "2026-03-31T17:57",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0184",
+      "description": "(주)지에이치컴",
+      "category": "생활·기타",
+      "amount": 7500
+    },
+    {
+      "dateTime": "2026-03-31T21:59",
+      "month": "2026-03",
+      "source": "신한",
+      "id": "SH-0183",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 4880
+    },
+    {
+      "dateTime": "2026-04-03T11:15",
+      "month": "2026-04",
+      "source": "국민",
+      "id": "KB-0059",
+      "description": "토스 정인호",
+      "category": "생활·기타",
+      "amount": 27000
+    },
+    {
+      "dateTime": "2026-04-06T02:53",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0381",
+      "description": "(주)씨앤코컴퍼",
+      "category": "생활·기타",
+      "amount": 3400
+    },
+    {
+      "dateTime": "2026-04-06T12:47",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0382",
+      "description": "(주)씨앤코컴퍼",
+      "category": "생활·기타",
+      "amount": 4800
+    },
+    {
+      "dateTime": "2026-04-06T15:57",
+      "month": "2026-04",
+      "source": "국민",
+      "id": "KB-0057",
+      "description": "토스퀵계좌이체",
+      "category": "생활·기타",
+      "amount": 100000
+    },
+    {
+      "dateTime": "2026-04-06T16:59",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0380",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-06T22:23",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0379",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-04-06T22:43",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0378",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 1100
+    },
+    {
+      "dateTime": "2026-04-07T12:09",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0377",
+      "description": "카페",
+      "category": "카페",
+      "amount": 6500
+    },
+    {
+      "dateTime": "2026-04-07T12:53",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0376",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 1500
+    },
+    {
+      "dateTime": "2026-04-07T17:37",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0375",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-07T18:24",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0374",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 1500
+    },
+    {
+      "dateTime": "2026-04-08T11:51",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0373",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-04-08T12:51",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0372",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-04-08T18:00",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0371",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-04-08T18:39",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0370",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 7600
+    },
+    {
+      "dateTime": "2026-04-08T22:45",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0369",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-09T11:53",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0368",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-09T12:38",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0367",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 1500
+    },
+    {
+      "dateTime": "2026-04-09T17:06",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0366",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-09T21:14",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0365",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-10T12:26",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0364",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-10T12:59",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0363",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 1500
+    },
+    {
+      "dateTime": "2026-04-10T17:25",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0362",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-10T23:05",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0361",
+      "description": "지에스GS25 군",
+      "category": "생활·기타",
+      "amount": 2750
+    },
+    {
+      "dateTime": "2026-04-11T01:39",
+      "month": "2026-04",
+      "source": "카카오페이",
+      "id": "KP-0028",
+      "description": "용인 88 호텔",
+      "category": "여행·숙박",
+      "amount": 27000
+    },
+    {
+      "dateTime": "2026-04-11T14:21",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0360",
+      "description": "토스페이",
+      "category": "간편결제·선불",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-11T16:28",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0359",
+      "description": "베이커리·디저트",
+      "category": "카페",
+      "amount": 9800
+    },
+    {
+      "dateTime": "2026-04-11T23:31",
+      "month": "2026-04",
+      "source": "카카오페이",
+      "id": "KP-0027",
+      "description": "맥도날드",
+      "category": "식비",
+      "amount": 1900
+    },
+    {
+      "dateTime": "2026-04-11T23:35",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0357",
+      "description": "세븐일레븐 군",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-04-12T21:06",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0356",
+      "description": "세븐일레븐 군",
+      "category": "생활·기타",
+      "amount": 2250
+    },
+    {
+      "dateTime": "2026-04-12T21:17",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0355",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 5600
+    },
+    {
+      "dateTime": "2026-04-13T11:06",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0354",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-13T11:36",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0353",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 1200
+    },
+    {
+      "dateTime": "2026-04-13T11:46",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0352",
+      "description": "(주)지에이치컴",
+      "category": "생활·기타",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-04-13T17:26",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0351",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-13T18:06",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0350",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-04-13T19:19",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0349",
+      "description": "(주)에코테크",
+      "category": "생활·기타",
+      "amount": 300
+    },
+    {
+      "dateTime": "2026-04-13T19:20",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0348",
+      "description": "(주)에코테크",
+      "category": "생활·기타",
+      "amount": 180
+    },
+    {
+      "dateTime": "2026-04-13T21:38",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0347",
+      "description": "이마트 트레이",
+      "category": "생활·기타",
+      "amount": 11480
+    },
+    {
+      "dateTime": "2026-04-14T12:01",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0345",
+      "description": "학식당",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-04-14T12:13",
+      "month": "2026-04",
+      "source": "국민",
+      "id": "KB-0054",
+      "description": "데이트 비용",
+      "category": "생활·기타",
+      "amount": 130000
+    },
+    {
+      "dateTime": "2026-04-14T16:59",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0344",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-04-15T11:55",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0343",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 4700
+    },
+    {
+      "dateTime": "2026-04-15T17:13",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0342",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-15T17:39",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0341",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 4200
+    },
+    {
+      "dateTime": "2026-04-15T19:33",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0340",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 1500
+    },
+    {
+      "dateTime": "2026-04-16T11:52",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0339",
+      "description": "학식당",
+      "category": "식비",
+      "amount": 15000
+    },
+    {
+      "dateTime": "2026-04-16T17:22",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0338",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 11000
+    },
+    {
+      "dateTime": "2026-04-16T18:04",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0337",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 3400
+    },
+    {
+      "dateTime": "2026-04-16T19:44",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0336",
+      "description": "이마트24 경기",
+      "category": "생활·기타",
+      "amount": 5700
+    },
+    {
+      "dateTime": "2026-04-16T21:37",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0335",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-17T17:21",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0333",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-17T17:21",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0334",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-17T17:46",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0332",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 1600
+    },
+    {
+      "dateTime": "2026-04-17T21:41",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0331",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-04-18T22:06",
+      "month": "2026-04",
+      "source": "카카오페이",
+      "id": "KP-0024",
+      "description": "오프라인결제",
+      "category": "식비",
+      "amount": 7900
+    },
+    {
+      "dateTime": "2026-04-18T23:46",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0330",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-04-19T13:00",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0329",
+      "description": "컴포즈커피군포",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-04-20T11:44",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0328",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-20T12:20",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0327",
+      "description": "주식회사 씨앤",
+      "category": "생활·기타",
+      "amount": 2100
+    },
+    {
+      "dateTime": "2026-04-20T16:51",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0326",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-20T17:23",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0325",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 900
+    },
+    {
+      "dateTime": "2026-04-20T17:35",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0324",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 1500
+    },
+    {
+      "dateTime": "2026-04-20T22:21",
+      "month": "2026-04",
+      "source": "카카오페이",
+      "id": "KP-0023",
+      "description": "맥도날드",
+      "category": "식비",
+      "amount": 3800
+    },
+    {
+      "dateTime": "2026-04-21T10:36",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0323",
+      "description": "동결제_4",
+      "category": "생활·기타",
+      "amount": 4400
+    },
+    {
+      "dateTime": "2026-04-21T10:50",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0322",
+      "description": "자동결제_4",
+      "category": "생활·기타",
+      "amount": 31500
+    },
+    {
+      "dateTime": "2026-04-21T11:00",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0321",
+      "description": "컴포즈커피군포",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-04-21T11:29",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0320",
+      "description": "맘스터치 광교",
+      "category": "생활·기타",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-04-21T17:00",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0319",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-21T22:31",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0318",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-04-22T11:47",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0317",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-04-22T12:21",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0316",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-04-22T18:06",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0315",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-04-22T19:01",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0314",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 6700
+    },
+    {
+      "dateTime": "2026-04-22T19:07",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0313",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 10800
+    },
+    {
+      "dateTime": "2026-04-22T20:25",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0312",
+      "description": "Claude 구독",
+      "category": "교육/여가",
+      "amount": 33260
+    },
+    {
+      "dateTime": "2026-04-22T21:08",
+      "month": "2026-04",
+      "source": "카카오페이",
+      "id": "KP-0022",
+      "description": "Adobe 구독",
+      "category": "교육/여가",
+      "amount": 46200
+    },
+    {
+      "dateTime": "2026-04-23T15:04",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0311",
+      "description": "이마트24 경기",
+      "category": "생활·기타",
+      "amount": 700
+    },
+    {
+      "dateTime": "2026-04-23T15:05",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0310",
+      "description": "경기대학교 구",
+      "category": "교육/여가",
+      "amount": 1500
+    },
+    {
+      "dateTime": "2026-04-23T15:10",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0309",
+      "description": "(주)에코테크",
+      "category": "생활·기타",
+      "amount": 1440
+    },
+    {
+      "dateTime": "2026-04-23T17:38",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0308",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-23T18:01",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0307",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 900
+    },
+    {
+      "dateTime": "2026-04-24T11:07",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0306",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-24T17:05",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0304",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-24T17:29",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0303",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 2100
+    },
+    {
+      "dateTime": "2026-04-24T21:49",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0302",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 2900
+    },
+    {
+      "dateTime": "2026-04-25T12:38",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0301",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2700
+    },
+    {
+      "dateTime": "2026-04-25T12:47",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0300",
+      "description": "(주)코리아세븐",
+      "category": "생활·기타",
+      "amount": 400
+    },
+    {
+      "dateTime": "2026-04-25T20:23",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0299",
+      "description": "롯데쇼핑(주)",
+      "category": "생활·기타",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-04-25T22:56",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0298",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 5600
+    },
+    {
+      "dateTime": "2026-04-26T12:15",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0297",
+      "description": "컴포즈커피군포",
+      "category": "카페",
+      "amount": 3600
+    },
+    {
+      "dateTime": "2026-04-26T17:39",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0296",
+      "description": "맘스터치 광교",
+      "category": "생활·기타",
+      "amount": 7500
+    },
+    {
+      "dateTime": "2026-04-27T12:25",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0295",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-27T17:07",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0294",
+      "description": "혜원테크 주식",
+      "category": "생활·기타",
+      "amount": 7500
+    },
+    {
+      "dateTime": "2026-04-28T11:12",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0293",
+      "description": "카페",
+      "category": "카페",
+      "amount": 6500
+    },
+    {
+      "dateTime": "2026-04-28T11:39",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0292",
+      "description": "(주)씨앤코컴퍼",
+      "category": "생활·기타",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-04-28T17:38",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0291",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-29T12:08",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0290",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-04-29T18:13",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0289",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-04-29T18:52",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0287",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 47500
+    },
+    {
+      "dateTime": "2026-04-29T22:03",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0286",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-04-30T12:01",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0285",
+      "description": "카페",
+      "category": "카페",
+      "amount": 10000
+    },
+    {
+      "dateTime": "2026-04-30T17:37",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0284",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-04-30T18:08",
+      "month": "2026-04",
+      "source": "신한",
+      "id": "SH-0283",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 2600
+    },
+    {
+      "dateTime": "2026-05-01T00:33",
+      "month": "2026-05",
+      "source": "국민",
+      "id": "KB-0046",
+      "description": "경기지역화폐",
+      "category": "간편결제·선불",
+      "amount": 400000
+    },
+    {
+      "dateTime": "2026-05-01T20:55",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0474",
+      "description": "롯데쇼핑(주)",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-05-01T20:57",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0473",
+      "description": "롯데마트광교점",
+      "category": "생활·기타",
+      "amount": 19980
+    },
+    {
+      "dateTime": "2026-05-02T00:43",
+      "month": "2026-05",
+      "source": "국민",
+      "id": "KB-0043",
+      "description": "토스페이",
+      "category": "간편결제·선불",
+      "amount": 34999
+    },
+    {
+      "dateTime": "2026-05-02T13:06",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0471",
+      "description": "살롱, 꽃봄 당",
+      "category": "생활·기타",
+      "amount": 18000
+    },
+    {
+      "dateTime": "2026-05-03T17:44",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0469",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 3100
+    },
+    {
+      "dateTime": "2026-05-03T21:24",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0468",
+      "description": "부자감자탕&닭",
+      "category": "식비",
+      "amount": 12500
+    },
+    {
+      "dateTime": "2026-05-03T21:32",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0467",
+      "description": "주식회사 한국",
+      "category": "생활·기타",
+      "amount": 2300
+    },
+    {
+      "dateTime": "2026-05-04T00:42",
+      "month": "2026-05",
+      "source": "카카오페이",
+      "id": "KP-0021",
+      "description": "com.nhn.android.webtoon",
+      "category": "교육/여가",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-05-04T11:27",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0466",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-05-04T16:58",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0465",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-05-05T18:24",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0464",
+      "description": "늘이맛 콩나물",
+      "category": "생활·기타",
+      "amount": 8000
+    },
+    {
+      "dateTime": "2026-05-05T18:42",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0463",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-05-05T22:34",
+      "month": "2026-05",
+      "source": "국민",
+      "id": "KB-0041",
+      "description": "경기지역화폐",
+      "category": "간편결제·선불",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-05-06T11:29",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0462",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-05-06T12:55",
+      "month": "2026-05",
+      "source": "카카오페이",
+      "id": "KP-0020",
+      "description": "(124270) 데이터야놀자 2026",
+      "category": "교육/여가",
+      "amount": 25000
+    },
+    {
+      "dateTime": "2026-05-06T17:44",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0460",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-05-06T18:06",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0459",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 1600
+    },
+    {
+      "dateTime": "2026-05-06T18:33",
+      "month": "2026-05",
+      "source": "국민",
+      "id": "KB-0039",
+      "description": "무신사 머니",
+      "category": "간편결제·선불",
+      "amount": 40000
+    },
+    {
+      "dateTime": "2026-05-06T21:12",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0458",
+      "description": "트레이더스 홀",
+      "category": "생활·기타",
+      "amount": 11980
+    },
+    {
+      "dateTime": "2026-05-07T11:58",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0456",
+      "description": "학식당",
+      "category": "식비",
+      "amount": 13500
+    },
+    {
+      "dateTime": "2026-05-07T13:38",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0455",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 3400
+    },
+    {
+      "dateTime": "2026-05-07T18:05",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0454",
+      "description": "신한체크교통",
+      "category": "교통",
+      "amount": 14150
+    },
+    {
+      "dateTime": "2026-05-07T21:05",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0453",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 1700
+    },
+    {
+      "dateTime": "2026-05-08T12:04",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0452",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-05-08T21:24",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0451",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 7200
+    },
+    {
+      "dateTime": "2026-05-08T21:41",
+      "month": "2026-05",
+      "source": "국민",
+      "id": "KB-0038",
+      "description": "무신사 머니",
+      "category": "간편결제·선불",
+      "amount": 60000
+    },
+    {
+      "dateTime": "2026-05-09T17:57",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0449",
+      "description": "늘이맛 콩나물",
+      "category": "생활·기타",
+      "amount": 6500
+    },
+    {
+      "dateTime": "2026-05-10T16:32",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0448",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 2200
+    },
+    {
+      "dateTime": "2026-05-10T22:31",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0447",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 8600
+    },
+    {
+      "dateTime": "2026-05-11T11:30",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0446",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-05-11T14:21",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0445",
+      "description": "토스페이",
+      "category": "간편결제·선불",
+      "amount": 11000
+    },
+    {
+      "dateTime": "2026-05-11T17:07",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0444",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-05-12T14:59",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0442",
+      "description": "토스페이",
+      "category": "간편결제·선불",
+      "amount": 11000
+    },
+    {
+      "dateTime": "2026-05-12T16:58",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0441",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-05-12T17:31",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0440",
+      "description": "주식회사 비앤",
+      "category": "생활·기타",
+      "amount": 6200
+    },
+    {
+      "dateTime": "2026-05-13T12:42",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0439",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-05-13T12:58",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0438",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-05-13T18:13",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0437",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-05-13T18:47",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0436",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 18800
+    },
+    {
+      "dateTime": "2026-05-14T11:55",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0435",
+      "description": "카페",
+      "category": "카페",
+      "amount": 6500
+    },
+    {
+      "dateTime": "2026-05-14T17:33",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0434",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-05-14T17:55",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0433",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 700
+    },
+    {
+      "dateTime": "2026-05-14T20:34",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0432",
+      "description": "이마트 트레이",
+      "category": "생활·기타",
+      "amount": 8980
+    },
+    {
+      "dateTime": "2026-05-14T20:36",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0430",
+      "description": "트레이더스 홀",
+      "category": "생활·기타",
+      "amount": 9000
+    },
+    {
+      "dateTime": "2026-05-15T17:24",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0429",
+      "description": "코레일유통주식",
+      "category": "교통",
+      "amount": 900
+    },
+    {
+      "dateTime": "2026-05-15T20:39",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0428",
+      "description": "판타스틱코인노",
+      "category": "생활·기타",
+      "amount": 3200
+    },
+    {
+      "dateTime": "2026-05-16T00:39",
+      "month": "2026-05",
+      "source": "카카오페이",
+      "id": "KP-0017",
+      "description": "택시 운임",
+      "category": "교통",
+      "amount": 23000
+    },
+    {
+      "dateTime": "2026-05-16T21:58",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0424",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 1570
+    },
+    {
+      "dateTime": "2026-05-17T17:15",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0423",
+      "description": "데이트 비용",
+      "category": "생활·기타",
+      "amount": 130000
+    },
+    {
+      "dateTime": "2026-05-17T17:39",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0422",
+      "description": "올리브영 광교",
+      "category": "생활·기타",
+      "amount": 13900
+    },
+    {
+      "dateTime": "2026-05-17T17:43",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0421",
+      "description": "와인앤모어 광",
+      "category": "생활·기타",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-05-18T12:39",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0420",
+      "description": "투썸플레이스",
+      "category": "카페",
+      "amount": 3640
+    },
+    {
+      "dateTime": "2026-05-18T13:41",
+      "month": "2026-05",
+      "source": "국민",
+      "id": "KB-0033",
+      "description": "대표일반_3",
+      "category": "생활·기타",
+      "amount": 40900
+    },
+    {
+      "dateTime": "2026-05-18T13:58",
+      "month": "2026-05",
+      "source": "국민",
+      "id": "KB-0032",
+      "description": "YBM시사_이니시스",
+      "category": "교육/여가",
+      "amount": 84000
+    },
+    {
+      "dateTime": "2026-05-18T22:36",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0419",
+      "description": "아이스크림할인",
+      "category": "생활·기타",
+      "amount": 600
+    },
+    {
+      "dateTime": "2026-05-19T11:04",
+      "month": "2026-05",
+      "source": "국민",
+      "id": "KB-0030",
+      "description": "입학전형료환불",
+      "category": "생활·기타",
+      "amount": -30000
+    },
+    {
+      "dateTime": "2026-05-19T12:10",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0418",
+      "description": "씨유 군포당동",
+      "category": "생활·기타",
+      "amount": 700
+    },
+    {
+      "dateTime": "2026-05-19T18:33",
+      "month": "2026-05",
+      "source": "카카오페이",
+      "id": "KP-0016",
+      "description": "TS[1738]",
+      "category": "교육/여가",
+      "amount": 84000
+    },
+    {
+      "dateTime": "2026-05-19T18:42",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0417",
+      "description": "가락",
+      "category": "식비",
+      "amount": 7000
+    },
+    {
+      "dateTime": "2026-05-19T21:01",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0416",
+      "description": "이마트 트레이",
+      "category": "생활·기타",
+      "amount": 3960
+    },
+    {
+      "dateTime": "2026-05-20T13:35",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0414",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-05-20T16:20",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0413",
+      "description": "Preply",
+      "category": "생활·기타",
+      "amount": 5079
+    },
+    {
+      "dateTime": "2026-05-20T18:30",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0412",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-05-20T21:56",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0411",
+      "description": "피자스쿨당동점",
+      "category": "생활·기타",
+      "amount": 12400
+    },
+    {
+      "dateTime": "2026-05-21T08:21",
+      "month": "2026-05",
+      "source": "국민",
+      "id": "KB-0028",
+      "description": "KB페이환급",
+      "category": "생활·기타",
+      "amount": -84000
+    },
+    {
+      "dateTime": "2026-05-21T12:24",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0410",
+      "description": "(주)씨앤코컴퍼",
+      "category": "생활·기타",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-05-21T17:44",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0409",
+      "description": "혜원테크 주식",
+      "category": "생활·기타",
+      "amount": 3500
+    },
+    {
+      "dateTime": "2026-05-21T22:48",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0408",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2750
+    },
+    {
+      "dateTime": "2026-05-22T20:25",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0407",
+      "description": "Claude 구독",
+      "category": "교육/여가",
+      "amount": 34139
+    },
+    {
+      "dateTime": "2026-05-23T00:26",
+      "month": "2026-05",
+      "source": "카카오페이",
+      "id": "KP-0015",
+      "description": "Adobe 구독",
+      "category": "교육/여가",
+      "amount": 46200
+    },
+    {
+      "dateTime": "2026-05-23T21:05",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0406",
+      "description": "세븐일레븐 경",
+      "category": "생활·기타",
+      "amount": 800
+    },
+    {
+      "dateTime": "2026-05-24T12:14",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0405",
+      "description": "군포당동우체국",
+      "category": "생활·기타",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-05-24T16:41",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0404",
+      "description": "씨유 군포당동",
+      "category": "생활·기타",
+      "amount": 2300
+    },
+    {
+      "dateTime": "2026-05-24T20:48",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0403",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-05-25T11:15",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0402",
+      "description": "군포당동우체국",
+      "category": "생활·기타",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-05-25T21:33",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0401",
+      "description": "아이스크림할인",
+      "category": "생활·기타",
+      "amount": 4600
+    },
+    {
+      "dateTime": "2026-05-26T11:29",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0400",
+      "description": "메가엠지씨커피",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-05-27T12:38",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0399",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-05-27T17:08",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0398",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-05-27T20:52",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0397",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-05-27T23:28",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0396",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-05-28T11:56",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0395",
+      "description": "학식당",
+      "category": "식비",
+      "amount": 14500
+    },
+    {
+      "dateTime": "2026-05-28T12:39",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0394",
+      "description": "(주)씨앤코컴퍼",
+      "category": "생활·기타",
+      "amount": 2700
+    },
+    {
+      "dateTime": "2026-05-28T17:34",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0393",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-05-29T12:52",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0392",
+      "description": "군포당동우체국",
+      "category": "생활·기타",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-05-29T19:13",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0391",
+      "description": "곱쟁이",
+      "category": "식비",
+      "amount": 89000
+    },
+    {
+      "dateTime": "2026-05-29T22:35",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0390",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-05-30T23:58",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0389",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-05-31T13:00",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0388",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-05-31T17:14",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0387",
+      "description": "씨유 군포당동",
+      "category": "생활·기타",
+      "amount": 1100
+    },
+    {
+      "dateTime": "2026-05-31T17:16",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0386",
+      "description": "김밥천국당동점",
+      "category": "식비",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-05-31T23:35",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0385",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2750
+    },
+    {
+      "dateTime": "2026-05-31T23:55",
+      "month": "2026-05",
+      "source": "신한",
+      "id": "SH-0384",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-06-01T00:16",
+      "month": "2026-06",
+      "source": "국민",
+      "id": "KB-0022",
+      "description": "경기지역화폐",
+      "category": "간편결제·선불",
+      "amount": 400000
+    },
+    {
+      "dateTime": "2026-06-01T18:05",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0565",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-06-01T18:57",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0564",
+      "description": "투썸플레이스",
+      "category": "카페",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-06-01T22:10",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0563",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5220
+    },
+    {
+      "dateTime": "2026-06-02T10:53",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0562",
+      "description": "ZHENG YUNH",
+      "category": "생활·기타",
+      "amount": 15400
+    },
+    {
+      "dateTime": "2026-06-02T10:55",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0561",
+      "description": "컴포즈커피군포",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-06-02T11:35",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0560",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-06-02T12:10",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0559",
+      "description": "경기대학교(경?",
+      "category": "교육/여가",
+      "amount": 300
+    },
+    {
+      "dateTime": "2026-06-02T12:54",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0558",
+      "description": "(주)에코테크",
+      "category": "생활·기타",
+      "amount": 60
+    },
+    {
+      "dateTime": "2026-06-02T16:47",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0557",
+      "description": "(주)에코테크",
+      "category": "생활·기타",
+      "amount": 60
+    },
+    {
+      "dateTime": "2026-06-02T20:03",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0556",
+      "description": "와인앤모어 광",
+      "category": "생활·기타",
+      "amount": 20700
+    },
+    {
+      "dateTime": "2026-06-03T12:17",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0555",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-06-03T12:46",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0554",
+      "description": "투썸플레이스",
+      "category": "카페",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-06-03T18:34",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0553",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 1200
+    },
+    {
+      "dateTime": "2026-06-04T11:46",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0552",
+      "description": "카페",
+      "category": "카페",
+      "amount": 6500
+    },
+    {
+      "dateTime": "2026-06-04T12:05",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0551",
+      "description": "카페해나24",
+      "category": "카페",
+      "amount": 1900
+    },
+    {
+      "dateTime": "2026-06-04T18:06",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0550",
+      "description": "신한체크교통",
+      "category": "교통",
+      "amount": 18650
+    },
+    {
+      "dateTime": "2026-06-04T18:21",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0549",
+      "description": "역전국밥 광교",
+      "category": "생활·기타",
+      "amount": 11000
+    },
+    {
+      "dateTime": "2026-06-04T18:25",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0548",
+      "description": "세븐일레븐 광",
+      "category": "생활·기타",
+      "amount": 7500
+    },
+    {
+      "dateTime": "2026-06-05T12:00",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0546",
+      "description": "컴포즈커피군포",
+      "category": "카페",
+      "amount": 5600
+    },
+    {
+      "dateTime": "2026-06-05T14:32",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0545",
+      "description": "CURSOR, AI POW",
+      "category": "교육/여가",
+      "amount": 33253
+    },
+    {
+      "dateTime": "2026-06-06T09:51",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0544",
+      "description": "카페",
+      "category": "카페",
+      "amount": 5300
+    },
+    {
+      "dateTime": "2026-06-06T09:53",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0543",
+      "description": "카페",
+      "category": "카페",
+      "amount": 5200
+    },
+    {
+      "dateTime": "2026-06-06T12:02",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0542",
+      "description": "카페",
+      "category": "카페",
+      "amount": 10000
+    },
+    {
+      "dateTime": "2026-06-06T19:02",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0541",
+      "description": "투썸플레이스",
+      "category": "카페",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-06-07T18:35",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0540",
+      "description": "투썸플레이스",
+      "category": "카페",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-06-08T09:26",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0539",
+      "description": "주식회사 덕성",
+      "category": "생활·기타",
+      "amount": 50000
+    },
+    {
+      "dateTime": "2026-06-08T11:59",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0538",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-06-08T13:02",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0537",
+      "description": "카페",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-06-08T18:06",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0536",
+      "description": "구내식당",
+      "category": "식비",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-06-08T18:55",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0535",
+      "description": "성심당·디저트",
+      "category": "카페",
+      "amount": 19300
+    },
+    {
+      "dateTime": "2026-06-09T15:21",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0534",
+      "description": "혜원테크 주식",
+      "category": "생활·기타",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-06-09T19:41",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0533",
+      "description": "광교푸르지오",
+      "category": "생활·기타",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-06-09T19:53",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0532",
+      "description": "스윗르벤지",
+      "category": "생활·기타",
+      "amount": 5900
+    },
+    {
+      "dateTime": "2026-06-10T18:40",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0531",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-06-10T19:19",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0530",
+      "description": "카페두드림",
+      "category": "카페",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-06-11T10:58",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0529",
+      "description": "삼미상사(주)남",
+      "category": "생활·기타",
+      "amount": 20000
+    },
+    {
+      "dateTime": "2026-06-11T16:57",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0528",
+      "description": "제이엘푸드",
+      "category": "식비",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-06-11T20:19",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0527",
+      "description": "와인앤모어 광",
+      "category": "생활·기타",
+      "amount": 12000
+    },
+    {
+      "dateTime": "2026-06-11T20:30",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0526",
+      "description": "롯데쇼핑(주)",
+      "category": "생활·기타",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-06-11T20:35",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0525",
+      "description": "롯데마트광교점",
+      "category": "생활·기타",
+      "amount": 13280
+    },
+    {
+      "dateTime": "2026-06-12T14:01",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0523",
+      "description": "투썸플레이스",
+      "category": "카페",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-06-12T14:59",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0522",
+      "description": "토스페이",
+      "category": "간편결제·선불",
+      "amount": 7500
+    },
+    {
+      "dateTime": "2026-06-12T21:57",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0521",
+      "description": "주식회사 샤르",
+      "category": "생활·기타",
+      "amount": 2700
+    },
+    {
+      "dateTime": "2026-06-13T17:56",
+      "month": "2026-06",
+      "source": "국민",
+      "id": "KB-0019",
+      "description": "토스페이",
+      "category": "간편결제·선불",
+      "amount": 30000
+    },
+    {
+      "dateTime": "2026-06-14T13:53",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0520",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-06-14T18:33",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0519",
+      "description": "김밥천국당동점",
+      "category": "식비",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-06-14T18:36",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0518",
+      "description": "씨유 군포당동",
+      "category": "생활·기타",
+      "amount": 1000
+    },
+    {
+      "dateTime": "2026-06-14T19:43",
+      "month": "2026-06",
+      "source": "카카오페이",
+      "id": "KP-0012",
+      "description": "맥도날드",
+      "category": "식비",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-06-14T21:27",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0517",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2400
+    },
+    {
+      "dateTime": "2026-06-15T13:32",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0516",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-06-15T18:02",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0515",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8000
+    },
+    {
+      "dateTime": "2026-06-15T18:33",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0514",
+      "description": "맥도날드 군포",
+      "category": "식비",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-06-16T13:21",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0513",
+      "description": "군포당동우체국",
+      "category": "생활·기타",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-06-16T15:55",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0512",
+      "description": "씨유 군포당동",
+      "category": "생활·기타",
+      "amount": 1900
+    },
+    {
+      "dateTime": "2026-06-16T18:25",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0511",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-06-16T22:28",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0510",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5300
+    },
+    {
+      "dateTime": "2026-06-16T23:06",
+      "month": "2026-06",
+      "source": "국민",
+      "id": "KB-0016",
+      "description": "토스페이",
+      "category": "간편결제·선불",
+      "amount": 54000
+    },
+    {
+      "dateTime": "2026-06-17T12:06",
+      "month": "2026-06",
+      "source": "국민",
+      "id": "KB-0015",
+      "description": "데이트 비용",
+      "category": "생활·기타",
+      "amount": 130000
+    },
+    {
+      "dateTime": "2026-06-17T13:35",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0509",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-06-17T21:46",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0508",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-06-18T18:40",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0507",
+      "description": "씨제이올리브영",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-06-19T18:12",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0506",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-06-20T17:00",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0504",
+      "description": "런던베이글뮤지",
+      "category": "카페",
+      "amount": 22300
+    },
+    {
+      "dateTime": "2026-06-21T20:14",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0503",
+      "description": "엠마트",
+      "category": "생활·기타",
+      "amount": 950
+    },
+    {
+      "dateTime": "2026-06-21T20:15",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0502",
+      "description": "김밥천국당동점",
+      "category": "식비",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-06-22T21:52",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0501",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-06-23T12:14",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0500",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-06-23T18:24",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0497",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8000
+    },
+    {
+      "dateTime": "2026-06-23T19:43",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0495",
+      "description": "Anthropic 구독",
+      "category": "교육/여가",
+      "amount": 34568
+    },
+    {
+      "dateTime": "2026-06-23T22:03",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0494",
+      "description": "파리바게트 당",
+      "category": "생활·기타",
+      "amount": 5400
+    },
+    {
+      "dateTime": "2026-06-23T22:20",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0493",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-06-24T12:07",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0492",
+      "description": "카페두드림",
+      "category": "카페",
+      "amount": 4500
+    },
+    {
+      "dateTime": "2026-06-24T20:38",
+      "month": "2026-06",
+      "source": "카카오페이",
+      "id": "KP-0011",
+      "description": "(XXL 추가) 데일리 쿨 하프 니트 외 1개",
+      "category": "생활·기타",
+      "amount": 84500
+    },
+    {
+      "dateTime": "2026-06-24T22:47",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0491",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 5100
+    },
+    {
+      "dateTime": "2026-06-25T14:01",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0490",
+      "description": "살롱, 꽃봄 당",
+      "category": "생활·기타",
+      "amount": 18000
+    },
+    {
+      "dateTime": "2026-06-25T14:06",
+      "month": "2026-06",
+      "source": "카카오페이",
+      "id": "KP-0010",
+      "description": "맥도날드",
+      "category": "식비",
+      "amount": 1500
+    },
+    {
+      "dateTime": "2026-06-25T17:13",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0489",
+      "description": "돈까스 일기",
+      "category": "식비",
+      "amount": 28800
+    },
+    {
+      "dateTime": "2026-06-28T08:08",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0488",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-06-28T17:48",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0487",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 1200
+    },
+    {
+      "dateTime": "2026-06-29T23:14",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0484",
+      "description": "청기와집뼈감자",
+      "category": "생활·기타",
+      "amount": 16000
+    },
+    {
+      "dateTime": "2026-06-29T23:49",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0481",
+      "description": "세븐일레븐 군",
+      "category": "생활·기타",
+      "amount": 12200
+    },
+    {
+      "dateTime": "2026-06-30T00:01",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0480",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 3600
+    },
+    {
+      "dateTime": "2026-06-30T18:05",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0478",
+      "description": "민자도로 후불",
+      "category": "생활·기타",
+      "amount": 1000
+    },
+    {
+      "dateTime": "2026-06-30T22:01",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0477",
+      "description": "가마치통닭 군",
+      "category": "식비",
+      "amount": 18000
+    },
+    {
+      "dateTime": "2026-06-30T22:18",
+      "month": "2026-06",
+      "source": "신한",
+      "id": "SH-0476",
+      "description": "세븐일레븐 군",
+      "category": "생활·기타",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-07-01T22:02",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0652",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 6500
+    },
+    {
+      "dateTime": "2026-07-02T12:57",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0651",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-02T17:03",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0650",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-07-02T21:22",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0649",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 3500
+    },
+    {
+      "dateTime": "2026-07-02T23:12",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0648",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-07-03T15:33",
+      "month": "2026-07",
+      "source": "카카오페이",
+      "id": "KP-0007",
+      "description": "TS[1752]",
+      "category": "교육/여가",
+      "amount": 84000
+    },
+    {
+      "dateTime": "2026-07-03T17:58",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0647",
+      "description": "카페두드림",
+      "category": "카페",
+      "amount": 11500
+    },
+    {
+      "dateTime": "2026-07-03T18:05",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0646",
+      "description": "신한체크교통",
+      "category": "교통",
+      "amount": 27950
+    },
+    {
+      "dateTime": "2026-07-03T21:09",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0645",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 6300
+    },
+    {
+      "dateTime": "2026-07-03T23:56",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0644",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 4200
+    },
+    {
+      "dateTime": "2026-07-04T00:29",
+      "month": "2026-07",
+      "source": "카카오페이",
+      "id": "KP-0006",
+      "description": "com.nhn.android.webtoon",
+      "category": "교육/여가",
+      "amount": 6000
+    },
+    {
+      "dateTime": "2026-07-04T18:14",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0643",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-07-04T21:51",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0642",
+      "description": "파리바게뜨(당",
+      "category": "생활·기타",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-05T15:33",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0641",
+      "description": "CURSOR, AI POW",
+      "category": "교육/여가",
+      "amount": 32936
+    },
+    {
+      "dateTime": "2026-07-05T18:24",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0640",
+      "description": "술집",
+      "category": "식비",
+      "amount": 61000
+    },
+    {
+      "dateTime": "2026-07-05T22:03",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0639",
+      "description": "청",
+      "category": "생활·기타",
+      "amount": 16000
+    },
+    {
+      "dateTime": "2026-07-05T22:05",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0638",
+      "description": "파리바게뜨(당",
+      "category": "생활·기타",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-07-06T11:03",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0637",
+      "description": "메가엠지씨커피",
+      "category": "카페",
+      "amount": 1700
+    },
+    {
+      "dateTime": "2026-07-06T11:14",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0636",
+      "description": "컴포즈커피군포",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-06T18:02",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0634",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-07-06T18:40",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0633",
+      "description": "파리바게트 당",
+      "category": "생활·기타",
+      "amount": 4990
+    },
+    {
+      "dateTime": "2026-07-06T18:42",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0632",
+      "description": "지에스(GS)25",
+      "category": "생활·기타",
+      "amount": 3600
+    },
+    {
+      "dateTime": "2026-07-06T18:46",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0631",
+      "description": "다이소 군포당",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-07-06T19:04",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0630",
+      "description": "카페두드림",
+      "category": "카페",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-07-06T20:35",
+      "month": "2026-07",
+      "source": "국민",
+      "id": "KB-0008",
+      "description": "토스페이",
+      "category": "간편결제·선불",
+      "amount": 48114
+    },
+    {
+      "dateTime": "2026-07-07T12:58",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0629",
+      "description": "씨유(CU) 군포",
+      "category": "생활·기타",
+      "amount": 700
+    },
+    {
+      "dateTime": "2026-07-07T17:24",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0628",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8000
+    },
+    {
+      "dateTime": "2026-07-08T12:48",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0627",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-08T17:05",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0626",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-07-08T17:54",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0625",
+      "description": "씨유 군포당동",
+      "category": "생활·기타",
+      "amount": 1100
+    },
+    {
+      "dateTime": "2026-07-09T12:40",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0624",
+      "description": "메가엠지씨커피",
+      "category": "카페",
+      "amount": 2000
+    },
+    {
+      "dateTime": "2026-07-09T19:26",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0623",
+      "description": "김밥천국당동점",
+      "category": "식비",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-07-09T19:28",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0622",
+      "description": "엠마트",
+      "category": "생활·기타",
+      "amount": 950
+    },
+    {
+      "dateTime": "2026-07-09T22:22",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0621",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 3650
+    },
+    {
+      "dateTime": "2026-07-10T12:12",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0620",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-10T19:09",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0619",
+      "description": "씨유(CU) 군포",
+      "category": "생활·기타",
+      "amount": 1100
+    },
+    {
+      "dateTime": "2026-07-10T21:53",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0618",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 12070
+    },
+    {
+      "dateTime": "2026-07-11T01:07",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0617",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-07-11T14:05",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0616",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-11T16:14",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0612",
+      "description": "코보시스템",
+      "category": "생활·기타",
+      "amount": 50
+    },
+    {
+      "dateTime": "2026-07-11T16:14",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0613",
+      "description": "코보시스템",
+      "category": "생활·기타",
+      "amount": 50
+    },
+    {
+      "dateTime": "2026-07-11T16:14",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0614",
+      "description": "코보시스템",
+      "category": "생활·기타",
+      "amount": 50
+    },
+    {
+      "dateTime": "2026-07-11T16:14",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0615",
+      "description": "코보시스템",
+      "category": "생활·기타",
+      "amount": 50
+    },
+    {
+      "dateTime": "2026-07-11T16:15",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0611",
+      "description": "코보시스템",
+      "category": "생활·기타",
+      "amount": 50
+    },
+    {
+      "dateTime": "2026-07-11T18:18",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0610",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-07-11T22:14",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0609",
+      "description": "리바게뜨(당",
+      "category": "생활·기타",
+      "amount": 7200
+    },
+    {
+      "dateTime": "2026-07-11T22:26",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0608",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 9360
+    },
+    {
+      "dateTime": "2026-07-12T01:27",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0607",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-07-12T14:34",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0606",
+      "description": "다이소 군포당",
+      "category": "생활·기타",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-07-12T14:35",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0605",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-12T18:15",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0604",
+      "description": "김밥천국당동점",
+      "category": "식비",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-07-12T18:17",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0603",
+      "description": "엠마트",
+      "category": "생활·기타",
+      "amount": 1100
+    },
+    {
+      "dateTime": "2026-07-12T18:26",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0602",
+      "description": "주식회사 라온",
+      "category": "생활·기타",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-07-12T22:47",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0601",
+      "description": "청기와집뼈감자",
+      "category": "생활·기타",
+      "amount": 11000
+    },
+    {
+      "dateTime": "2026-07-12T22:48",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0600",
+      "description": "청기와집뼈감자",
+      "category": "생활·기타",
+      "amount": 5000
+    },
+    {
+      "dateTime": "2026-07-12T22:57",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0599",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2400
+    },
+    {
+      "dateTime": "2026-07-13T00:54",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0598",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-07-13T13:32",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0597",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-13T19:21",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0596",
+      "description": "찬스커피",
+      "category": "생활·기타",
+      "amount": 12900
+    },
+    {
+      "dateTime": "2026-07-13T21:28",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0595",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 5880
+    },
+    {
+      "dateTime": "2026-07-13T23:53",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0594",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2500
+    },
+    {
+      "dateTime": "2026-07-14T13:50",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0593",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-14T18:17",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0592",
+      "description": "김밥천국당동점",
+      "category": "식비",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-07-14T18:20",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0591",
+      "description": "엠마트",
+      "category": "생활·기타",
+      "amount": 1000
+    },
+    {
+      "dateTime": "2026-07-14T22:15",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0590",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 2400
+    },
+    {
+      "dateTime": "2026-07-14T23:54",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0589",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 1900
+    },
+    {
+      "dateTime": "2026-07-15T13:48",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0588",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-15T14:57",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0587",
+      "description": "씨유 군포당동",
+      "category": "생활·기타",
+      "amount": 1200
+    },
+    {
+      "dateTime": "2026-07-15T18:56",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0586",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8000
+    },
+    {
+      "dateTime": "2026-07-16T14:02",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0585",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-16T19:14",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0584",
+      "description": "삼성화재해상보",
+      "category": "생활·기타",
+      "amount": 11880
+    },
+    {
+      "dateTime": "2026-07-16T22:21",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0583",
+      "description": "GS THE FRESH",
+      "category": "생활·기타",
+      "amount": 10700
+    },
+    {
+      "dateTime": "2026-07-17T14:18",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0582",
+      "description": "(주)케이엠파크",
+      "category": "생활·기타",
+      "amount": 1000
+    },
+    {
+      "dateTime": "2026-07-17T17:57",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0581",
+      "description": "씨유 군포당동",
+      "category": "생활·기타",
+      "amount": 1700
+    },
+    {
+      "dateTime": "2026-07-17T18:13",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0580",
+      "description": "카페두드림",
+      "category": "카페",
+      "amount": 5500
+    },
+    {
+      "dateTime": "2026-07-17T22:07",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0579",
+      "description": "세븐스타 코인",
+      "category": "생활·기타",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-07-18T15:33",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0578",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-18T18:05",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0577",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    },
+    {
+      "dateTime": "2026-07-18T19:23",
+      "month": "2026-07",
+      "source": "카카오페이",
+      "id": "KP-0005",
+      "description": "경기대학교-졸업예정증명서",
+      "category": "교육/여가",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-07-18T19:34",
+      "month": "2026-07",
+      "source": "카카오페이",
+      "id": "KP-0004",
+      "description": "경기대학교-성적증명서",
+      "category": "교육/여가",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-07-18T20:09",
+      "month": "2026-07",
+      "source": "국민",
+      "id": "KB-0003",
+      "description": "이니시스(일반)",
+      "category": "생활·기타",
+      "amount": 1500
+    },
+    {
+      "dateTime": "2026-07-18T23:09",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0576",
+      "description": "GS25 군포용호",
+      "category": "생활·기타",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-19T10:53",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0575",
+      "description": "애플김밥",
+      "category": "생활·기타",
+      "amount": 3500
+    },
+    {
+      "dateTime": "2026-07-19T10:56",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0574",
+      "description": "GS25군포흥안점",
+      "category": "생활·기타",
+      "amount": 1100
+    },
+    {
+      "dateTime": "2026-07-19T11:02",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0573",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-19T13:22",
+      "month": "2026-07",
+      "source": "카카오페이",
+      "id": "KP-0003",
+      "description": "경기대학교-성적증명서",
+      "category": "교육/여가",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-07-19T13:26",
+      "month": "2026-07",
+      "source": "카카오페이",
+      "id": "KP-0002",
+      "description": "경기대학교-성적증명서",
+      "category": "교육/여가",
+      "amount": 4000
+    },
+    {
+      "dateTime": "2026-07-19T13:29",
+      "month": "2026-07",
+      "source": "카카오페이",
+      "id": "KP-0001",
+      "description": "경기대학교-졸업예정증명서",
+      "category": "교육/여가",
+      "amount": 3000
+    },
+    {
+      "dateTime": "2026-07-19T18:38",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0572",
+      "description": "성애칼국수",
+      "category": "식비",
+      "amount": 7000
+    },
+    {
+      "dateTime": "2026-07-19T20:15",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0571",
+      "description": "OPENAI *CHATGP",
+      "category": "생활·기타",
+      "amount": 29964
+    },
+    {
+      "dateTime": "2026-07-20T14:32",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0570",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-20T18:06",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0569",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8000
+    },
+    {
+      "dateTime": "2026-07-20T18:47",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0568",
+      "description": "투썸플레이스",
+      "category": "카페",
+      "amount": 2800
+    },
+    {
+      "dateTime": "2026-07-21T13:45",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0567",
+      "description": "컴포즈군포당동",
+      "category": "카페",
+      "amount": 1800
+    },
+    {
+      "dateTime": "2026-07-21T17:47",
+      "month": "2026-07",
+      "source": "신한",
+      "id": "SH-0566",
+      "description": "가락",
+      "category": "식비",
+      "amount": 8500
+    }
+  ]
+}
